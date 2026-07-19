@@ -1,13 +1,22 @@
 Couture du Moment
 
-Site vitrine officiel de l’atelier **Couture du Moment**, situé à **Bunia (RDC)**.
+Site vitrine officiel de l’atelier **Al-Amin Couture**, situé à **Bunia (RDC)**.
 
 🧵 Présentation
-**Couture du Moment** est un atelier de couture spécialisé dans la confection de vêtements modernes et traditionnels.  
-Nous réalisons des tenues sur mesure pour hommes, femmes et enfants, adaptées à toutes les occasions.
+Bienvenue chez Al-Amin Couture
+Situé à Bunia, en République Démocratique du Congo, Al-Amin Couture est un atelier spécialisé dans la confection de vêtements sur mesure pour hommes, femmes et enfants.
+Nous créons des tenues modernes, traditionnelles et professionnelles avec précision, élégance et souci du détail.
+Notre priorité est de vous offrir un travail de qualité qui met en valeur votre style.
+Nos services
+✔ Costumes sur mesure
+✔ Chemises
+✔ Robes
+✔ Vêtements traditionnels
+✔ Uniformes scolaires
+✔ Retouches
+✔ Couture homme
+✔ Couture femme
+✔ Couture enfant
 
 🌐 Objectif du site
-Ce site a pour but de :
-- Présenter l’atelier Couture du Moment
-- Mettre en valeur les services proposés
-- Faciliter la prise de contact via WhatsApp
+Le site officiel d'Al-Amin Couture a pour objectif de présenter notre atelier, de mettre en valeur nos réalisations et de permettre à nos clients de découvrir facilement nos services. Il facilite également la prise de contact via WhatsApp afin d'obtenir des informations, demander un devis ou passer une commande en toute simplicité.
